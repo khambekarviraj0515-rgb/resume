@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>John Doe - Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <h1>John Doe</h1>
+    <p class="subtitle">
+      Full Stack Developer | Web Designer | Tech Enthusiast
+    </p>
+
+    <hr>
+
+    <h2>About Me</h2>
+    <p>
+      I am a passionate developer with 5+ years of experience in building web
+      applications. I specialize in HTML, CSS, JavaScript, and backend
+      technologies.
+    </p>
+
+    <hr>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML5 & CSS3</li>
+      <li>JavaScript</li>
+      <li>React & Vue.js</li>
+      <li>Node.js & Express</li>
+      <li>MongoDB & MySQL</li>
+      <li>Git & GitHub</li>
+    </ul>
+
+    <hr>
+
+    <h2>Experience</h2>
+    <table>
+      <tr>
+        <th>Position</th>
+        <th>Company</th>
+        <th>Duration</th>
+      </tr>
+      <tr>
+        <td>Senior Developer</td>
+        <td>Tech Solutions Inc.</td>
+        <td>2021 - Present</td>
+      </tr>
+      <tr>
+        <td>Web Developer</td>
+        <td>Digital Innovations</td>
